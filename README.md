@@ -1,2 +1,2 @@
-# python_ws
+# Python Workspace
  
